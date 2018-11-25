@@ -1,0 +1,57 @@
+scala
+console
+submit mike.mccabe210@gmail.com     def countIter(money: Int, coins: List[Int], coin_count: Int): Int = {
+      val remaining = money - coin_count * coins.head
+      if (coin_count == 0) {
+        println("cc = 0")
+        countChange(money, coins.tail)
+      }
+      else if (remaining > 0) {
+        println("remaining " + remaining + " count count " + coin_count)
+        countIter(money, coins, coin_count - 1) + countChange(remaining, coins.tail)
+      }
+      else if (remaining == 0) {
+        println("plus 1")
+        countIter(money, coins, coin_count - 1) + 1
+      }
+      else {
+        println("i dont know")
+        1
+      }
+submit mike.mccabe210@gmail.com     def countIter(money: Int, coins: List[Int], coin_count: Int): Int = {
+      val remaining = money - coin_count * coins.head
+      if (coin_count == 0) {
+        println("cc = 0")
+        countChange(money, coins.tail)
+      }
+      else if (remaining > 0) {
+        println("remaining " + remaining + " count count " + coin_count)
+        countIter(money, coins, coin_count - 1) + countChange(remaining, coins.tail)
+      }
+      else if (remaining == 0) {
+        println("plus 1")
+        countIter(money, coins, coin_count - 1) + 1
+      }
+      else {
+        println("i dont know")
+        1
+      }
+submit mike.mccabe210@gmail.com     def countIter(money: Int, coins: List[Int], coin_count: Int): Int = {
+      val remaining = money - coin_count * coins.head
+      if (coin_count == 0) {
+        println("cc = 0")
+        countChange(money, coins.tail)
+      }
+      else if (remaining > 0) {
+        println("remaining " + remaining + " count count " + coin_count)
+        countIter(money, coins, coin_count - 1) + countChange(remaining, coins.tail)
+      }
+      else if (remaining == 0) {
+        println("plus 1")
+        countIter(money, coins, coin_count - 1) + 1
+      }
+      else {
+        println("i dont know")
+        1
+      }
+submit mike.mccabe210@gmail.com Z2H9PdpLOVMAb2Lq

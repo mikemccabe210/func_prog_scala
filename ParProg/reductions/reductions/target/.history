@@ -1,0 +1,6 @@
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+last compile:runMain
+runMain reductions.ParallelParenthesesBalancingRunner
+last compile:runMain
+submit mike.mccabe210@gmail.com jjgAKRMbsvHglEiX

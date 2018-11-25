@@ -1,0 +1,12 @@
+test
+runMain scalashop.ScalaShop
+submit mike.mccabe210@gmail.com     for (i <- 0 to src.width by src.width/numTasks)
+      task {blur(src, dst, i, Math.min(i + src.width/numTasks, src.width), radius)}
+  }    for (i <- 0 to src.width by src.width/numTasks)
+      task {blur(src, dst, i, Math.min(i + src.width/numTasks, src.width), radius)}
+submit mike.mccabe210@gmail.com LtWCKwu0NdpRGffM
+runMain scalashop.ScalaShop
+submit mike.mccabe210@gmail.com LtWCKwu0NdpRGffM
+runMain scalashop.ScalaShop
+submit mike.mccabe210@gmail.com Dd8mmwJ5mpDxhutK
+runMain scalashop.ScalaShop

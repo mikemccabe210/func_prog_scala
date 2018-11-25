@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing D:\Users\Mike\Documents\calculator\calculator\web-ui\target\scala-2.11\webui-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 4766 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 34638 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 165984 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 3475 -- invalidated: 1 -- trees read: 1[0m
+[0m[[0mdebug[0m] [0mLinker: 207203 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 4742 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 2 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1661 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 8374 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 32721 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 3951 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 36793 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 383 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 2091 -- invalidated: 2[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 46846 us[0m
